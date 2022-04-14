@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <h1>product data</h1>
-<img src="https://user-images.githubusercontent.com/77965216/163019028-13cbb9f4-211b-4287-bd99-fd92bd424146.png"/>
+<!-- <img src="https://user-images.githubusercontent.com/77965216/163019028-13cbb9f4-211b-4287-bd99-fd92bd424146.png"/> -->
+<img src="https://user-images.githubusercontent.com/77965216/163414223-aa365b06-c3bd-4526-aded-b74836dea7c3.png"/>
+
 
 
 ## Available Scripts
